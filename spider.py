@@ -1,4 +1,4 @@
-from urllib, request import urlopen
+from urllib.request import urlopen
 from link_finder import LinkFinder
 from main import *
 class Spider:
